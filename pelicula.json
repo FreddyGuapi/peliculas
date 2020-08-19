@@ -1,0 +1,27 @@
+[
+	{
+		"titulo": "Sonic",
+		"genero": "Animacion",
+		"idioma": "Español",
+		"duracion": "120 minutos", 
+		"calificacion": " A",
+		"resumen": "Sonic intenta navegar por las complejidades de la vida en la Tierra",
+		"anio_produccion": "2019", 
+		"formato": "HD",
+		"director": "Jeff Fowler",
+		"clasificacion":"Todo publico"
+	},
+	{
+		"titulo": "Scooby-Do",
+		"genero": "Infantil",
+		"idioma": "Español",
+		"duracion": "120 minutos", 
+		"calificacion": "A",
+		"resumen": "Esta nueva aventura protagonizada por el popular",
+		"anio_produccion": "2020", 
+		"formato": "HD",
+		"director": "Tony Cervone",
+		"clasificacion":"Todo publico"
+	}
+	
+]
